@@ -1,7 +1,7 @@
 ## hey there (｡･∀･)ﾉﾞ
 - 👋 Hi, I’m @saemirii
-- 👀 I’m interested in developing bots with discord.js
-- 🌱 I’m currently learning mongoDB
+- 👀 I’m interested in developing bots with discord.js and website development
+- 🌱 I’m currently learning mongoDB, HTML, & CSS
 - 💞️ I’m looking to collaborate on other bot projects
 - 📫 Message me on @saemirii#0001 on discord to invite me to your projects!
 
