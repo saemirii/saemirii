@@ -1,8 +1,8 @@
 ## hey there (｡･∀･)ﾉﾞ
 heya, i'm saemi. I'm interested in developing bots with discord.js and website development.
-- currently learning mongoDB, HTML, & CSS
-- looking to collaborate on other bot projects
-- message me on @saemirii#0001 on discord to invite me to your projects!
+- 🪴 currently learning mongoDB, HTML, & CSS
+- 🌸 looking to collaborate on other bot projects
+- 🌷 message me on @saemirii#0001 on discord to invite me to your projects!
 
 <img src="https://discord.c99.nl/widget/theme-4/765413623157227530.png">
 
