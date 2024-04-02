@@ -1,9 +1,10 @@
 ## hey there (｡･∀･)ﾉﾞ
 heya, i'm safi. I'm interested in developing bots with discord.js and website development.
-- MERN stack web developer!
-- currently learning mongoDB, intermediate-advanced javascript and python, HTML, & CSS, frameworks
+- MERN stack web developer and part of my school's robotics varsity >:D
+- current projects: [checkmate!](https://github.com/saemirii/checkmate), [croffle](https://github.com/saemirii/checkmate)
+- actively learning mongoDB, intermediate-advanced javascript and python, HTML, & CSS, frameworks
 - looking to collaborate on other bot projects for free if it interests me
-- message me on @saemirii#0001 on discord to invite me to your projects!
+- message me on safiinuh on discord to invite me to your projects!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/765413623157227530)](https://discord.com/users/765413623157227530)
 
