@@ -1,5 +1,5 @@
 ## hey there (｡･∀･)ﾉﾞ
-heya, i'm safi. I'm interested in developing bots with discord.js and website development.
+heya, i'm safi. I'm interested in website development and UI/UX theory.
 - MERN stack web developer and part of my school's robotics varsity >:D
 - current projects: [checkmate!](https://github.com/saemirii/checkmate), [croffle](https://github.com/saemirii/checkmate)
 - actively learning mongoDB, intermediate-advanced javascript and python, HTML, & CSS, frameworks
