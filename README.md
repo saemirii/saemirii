@@ -1,7 +1,7 @@
 ## hey there (｡･∀･)ﾉﾞ
 heya, i'm safi. I'm interested in website development and UI/UX theory.
 - MERN stack web developer and part of my school's robotics varsity >:D
-- current projects: [checkmate!](https://github.com/saemirii/checkmate), [croffle](https://github.com/saemirii/checkmate)
+- current projects: [checkmate!](https://github.com/saemirii/checkmate), [croffle-css](https://github.com/saemirii/croffle-css)
 - actively learning mongoDB, intermediate-advanced javascript and python, HTML, & CSS, frameworks
 - looking to collaborate on other bot projects for free if it interests me
 - message me on safiinuh on discord to invite me to your projects!
