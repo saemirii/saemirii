@@ -1,8 +1,8 @@
 ## hey there (｡･∀･)ﾉﾞ
-heya, i'm safi. I'm interested in front-end development, UI/UX theory, and currently electronics engineering!
+heya, i'm safi. I'm interested in front-end development, UI/UX theory, and currently electronics engineering (robotics)!
 - MERN stack web developer and part of my school's robotics varsity >:D
-- current projects: [checkmate!](https://github.com/saemirii/checkmate), [croffle-css](https://github.com/saemirii/croffle-css)
-- actively learning mongoDB, intermediate-advanced javascript, C++, HTML, & CSS, frameworks
+- current projects: [SproutSquad!](https://github.com/saemirii/sproutsquad-ph)
+- actively learning Supabase, intermediate-advanced C++, HTML, & CSS, frameworks
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/765413623157227530)](https://discord.com/users/765413623157227530)
 
