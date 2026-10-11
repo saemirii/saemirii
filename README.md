@@ -9,6 +9,12 @@ heya, i'm safi. I'm interested in front-end development, UI/UX theory, and curre
 ## tools of the trade: 
 <p align="left"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/arduino-000000?style=for-the-badge&logo=arduino&logoColor=white">
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></p>
+
+## statistics & such: 
+  <p align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saemirii&theme=tokyonight&hide_border=true&border_radius=7&timezone=GMT%2B8" alt="GitHub Streak" /></a>
+
+[![safi's Stats](https://github-stats-extended.vercel.app/api?username=saemirii)](https://github.com/stats-organization/github-stats-extended)
 <!---
 saemirii/saemirii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
